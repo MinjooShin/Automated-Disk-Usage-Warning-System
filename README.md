@@ -21,7 +21,7 @@
 ```
 
 ## Dependency
-이메일 알림을 보낼 수 있도록 서버에 mail 유틸리티가 설치되어 있어야 한다.
+- mailutils 
 
 ## Result
 ![image](https://github.com/MinjooShin/ServerStatus-Notification/assets/74174008/1328415f-440a-4221-bc82-4a09364a559a)
